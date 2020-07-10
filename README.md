@@ -1,4 +1,4 @@
-# Mod4_Project
+# Best Areas to Invest in Manhattan and Brooklyn with Time Series
 
 # Background
 We are a investment firm based in New York City to provide detailed analysis and insights to investors who are interested in investing real estate for financial growth. This project is for mid-income families or individuals with initial budget under 500K and are looking to buy in 2020.
