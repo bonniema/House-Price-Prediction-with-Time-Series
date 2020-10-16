@@ -32,9 +32,9 @@ In this analysis, our goal is to provide you 5 zip codes/neighborhoods that coul
 
 Based on our model, here is the ROI table and the top zipcodes with highest growth potential.
 
-![ROI](.images/ROI.png)
+![ROI](./images/ROI.png)
 
-![zipcodes](.images/brooklyn_5_best_zip.JPG)
+![zipcodes](./images/brooklyn_5_best_zip.JPG)
 
 Future Considerations
 
