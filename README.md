@@ -6,8 +6,7 @@
 * [Project Overview](#project-overview)
 * [Statistical Methods](#statistical-methods)
 * [Project Workflow](#project-workflow)
-* [Test Results and Implications](#test-results-and-implications)
-* [Next Steps](#next-steps)
+* [Summary](#summary)
 
 
 ## Project Overview
