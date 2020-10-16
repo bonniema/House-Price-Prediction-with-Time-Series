@@ -29,6 +29,29 @@ In this analysis, our goal is to provide you 5 zip codes/neighborhoods that coul
 ![process](./images/timeseriesmodelprocess.png)
 
 
+## Summary:
+
+Based on our model, here is the ROI table and the top zipcodes with highest growth potential.
+
+![ROI](.images/ROI.png)
+
+![zipcodes](.images/brooklyn_5_best_zip.JPG)
+
+Future Considerations
+
+There might be different metrics to evaluate ROI for rental vs re-sale such as price to rent ratio, monthly avg rental income, tax, etc. Investor’s input (safety, convenience, school district, budget limit) may also be factored in. 
+
+A linear model with more additional features such as federal interest rate, house market safety score, etc. is more accurate than pure time series model.
+
+
+### [Presentation](https://github.com/bonniema/House-Price-Prediction-with-Time-Series/blob/master/Brooklyn_House_Price_Time_Series.pptx)
+
+### [Notebook](https://github.com/bonniema/House-Price-Prediction-with-Time-Series/blob/master/TimeSeries_Modeling_Analysis.ipynb)
+
+### [Check out the blog post related to this project](https://towardsdatascience.com/time-series-modeling-with-arima-to-predict-future-house-price-9b180c3bbd2f)
+
+
+
 
 
 
